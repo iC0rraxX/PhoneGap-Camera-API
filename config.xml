@@ -1,21 +1,21 @@
 <?xml version   ="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.intel.sample"
-    versioncode = "1"
-    version     = "1.0.0">
+    id          = "com.iC0rraxX.camera"
+    versioncode = "2"
+    version     = "1.0.1">
     
-    <name>PhoneGap Camera API Sample</name>
+    <name>PhoneGap Camera API</name>
     
     <content src="index.html"/>
     <icon src="icon.png" width="256" height="256" />
     
     <description>
-        Capture a photo using a device camera and edit (zoom and crop) the picture.
+        Camera API
     </description>
     
-    <author href="http://software.intel.com/html5">
-        Intel Corporation
+    <author href="http://corraftp.tk">
+        iC0rraxX
     </author>
         
     <preference name="phonegap-version" value="2.7.0" />
